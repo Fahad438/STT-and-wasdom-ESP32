@@ -1,6 +1,8 @@
 # STT-and-wasdom-ESP32
 # هذا العمل متطلب لدى شركة الأساليب الذكية
 
+الجوء الاول من المهمه
+<br />
 STT -->  Speech To Text <br />
 <br />
 عند الدخول الى الموقع نقوم بالضغط على الزر (زر لتحويل الكلام الى نص عربي ) او (زر لتحويل الكلام الى نص باللغة الانقليزية) <br />
@@ -45,12 +47,33 @@ Tools->Board "Arduino Uno"-->Boards Manager-->Type ESP32-->INSTALL
 
 
 
-5-نقوم باختبار البورد عن طريق:
+5-نقوم باختبار البورد ثم البورت عن طريق:
 <br />
 Board "Arduino Uno" --> ESP32 Arduino -->WEMOS D1 MINI ESP32
+<br />
+Port --> COM3
 
 
 
 6-نقوم بتجربة والتاكد من ان الجهاز تم تثبيته
 <br />
 file-->  Examples --> Basics -->Blink
+<br />
+<br />
+
+![image](https://user-images.githubusercontent.com/86566999/177466523-0f18723d-6b53-4c06-ae20-ecdf5929bdb9.png)
+
+
+
+
+
+من الممكن ان تصادفك بعض الاخطاء منها عدم تعرف البرنامج على البورت المطلوب ويمكن ان نحل هذي المشكلة عن طريق الخطوات التالية:
+
+1-This PC -->RIGHT CLICK  --> Properties --> Device Manager --> Other devices -> Name device --> Right Click --> Update driver
+
+<br />
+اذا لم يقوم بتبته بشكل صحيح نقوم بهذا الامر بشكل يدوي عن طريق البحث عن اسم الجهاز وتحديثه لاخر اصدار
+
+
+
+
