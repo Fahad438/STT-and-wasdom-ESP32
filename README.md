@@ -36,6 +36,10 @@ https://fahad438.github.io/STT-and-wasdom-ESP32/
 https://dl.espressif.com/dl/package_esp32_index.json
 <br />
 <br />
+<p align="center">
+  <img src="http://some_place.com/image.png](https://user-images.githubusercontent.com/86566999/177462178-92028efe-be21-4b8e-9686-fa0350f03431.png" />
+</p>
+
 ![image](https://user-images.githubusercontent.com/86566999/177462178-92028efe-be21-4b8e-9686-fa0350f03431.png)
 <br />
 4-نقوم بتعريف قطعة ESP32:
