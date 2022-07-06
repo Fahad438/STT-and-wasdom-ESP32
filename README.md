@@ -24,13 +24,14 @@ https://fahad438.github.io/STT-and-wasdom-ESP32/
 الجزء الثاني من المهمه كتابة خورازمية تشغيل قطعة Wasdom ESP32 <br />
 
 خطوات تشغيل القطعه:
+<br />
 1- نقوم بتحميل Arduino IDE
 <br />
 2-نقوم بتشغيل البرنامج
 <br />
 3-  قبل تعريف القطعه نقوم باضافة الرابط التالي الى PERFERNCES
 <br />
-https://dl.espressif.com/dl/package_esp32_index,json
+https://dl.espressif.com/dl/package_esp32_index.json
 <br />
 <br />
 ![image](https://user-images.githubusercontent.com/86566999/177462178-92028efe-be21-4b8e-9686-fa0350f03431.png)
@@ -43,4 +44,13 @@ Tools->Board "Arduino Uno"-->Boards Manager-->Type ESP32-->INSTALL
 ![image](https://user-images.githubusercontent.com/86566999/177462756-99253dc7-a74e-4fbe-afe1-ce5c5701eb4f.png)
 
 
-5-
+
+5-نقوم باختبار البورد عن طريق:
+<br />
+Board "Arduino Uno" --> ESP32 Arduino -->WEMOS D1 MINI ESP32
+
+
+
+6-نقوم بتجربة والتاكد من ان الجهاز تم تثبيته
+<br />
+file-->  Examples --> Basics -->Blink
