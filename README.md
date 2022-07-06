@@ -65,7 +65,7 @@ file-->  Examples --> Basics -->Blink
 <br />
 1-This PC -->RIGHT CLICK  --> Properties --> Device Manager --> Other devices -> Name device --> Right Click --> Update driver
 <br />
-اذا لم يقوم بتبته بشكل صحيح نقوم بهذا الامر بشكل يدوي عن طريق البحث عن اسم الجهاز وتحديثه لاخر اصدار
+اذا لم يقوم بتثبيته بشكل صحيح نقوم بهذا الامر بشكل يدوي عن طريق البحث عن اسم الجهاز وتحديثه لاخر اصدار
 
 
 
