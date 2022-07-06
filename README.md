@@ -1,7 +1,7 @@
 # STT-and-wasdom-ESP32
 # هذا العمل متطلب لدى شركة الأساليب الذكية
 
-الجوء الاول من المهمه
+الجزء الاول من المهمه
 <br />
 STT -->  Speech To Text <br />
 <br />
@@ -43,6 +43,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 Tools->Board "Arduino Uno"-->Boards Manager-->Type ESP32-->INSTALL
 <br />
 <br />
+
 ![image](https://user-images.githubusercontent.com/86566999/177462756-99253dc7-a74e-4fbe-afe1-ce5c5701eb4f.png)
 
 
