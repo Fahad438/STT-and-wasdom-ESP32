@@ -32,10 +32,15 @@ https://fahad438.github.io/STT-and-wasdom-ESP32/
 <br />
 https://dl.espressif.com/dl/package_esp32_index,json
 <br />
+<br />
 ![image](https://user-images.githubusercontent.com/86566999/177462178-92028efe-be21-4b8e-9686-fa0350f03431.png)
 <br />
-
-4-نقوم بتعريف قطعة ESP32---> Tools->Board "Arduino Uno"->Boards Manager->
+4-نقوم بتعريف قطعة ESP32:
 <br />
+Tools->Board "Arduino Uno"-->Boards Manager-->Type ESP32-->INSTALL
+<br />
+<br />
+![image](https://user-images.githubusercontent.com/86566999/177462756-99253dc7-a74e-4fbe-afe1-ce5c5701eb4f.png)
+
 
 5-
